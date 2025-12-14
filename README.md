@@ -1,13 +1,13 @@
 # Eli's Change Machine
-Author: Eli Gruhlke/
-Last Modified: 12/14/2025/
-Development Environment: C99, VSCode, Windows 11/
-Description:/
-    - A program that calculates change after given a starting dollar value/
-    - For example: given $11, the program would result in 1 one dollar bill and 1 ten dollar bill/
-    - Make use of all common USD$ denominations/
-    - Calculate change using the minimum number of bills and coins necessary/
-    - Assume infinite amounts of each denomination in change machine/
+Author: Eli Gruhlke\
+Last Modified: 12/14/2025\
+Development Environment: C99, VSCode, Windows 11\
+Description:\
+    - A program that calculates change after given a starting dollar value\
+    - For example: given $11, the program would result in 1 one dollar bill and 1 ten dollar bill\
+    - Make use of all common USD$ denominations\
+    - Calculate change using the minimum number of bills and coins necessary\
+    - Assume infinite amounts of each denomination in change machine
 
 ## How to use
 Note: Operate within Terminal or Command Prompt
@@ -34,3 +34,4 @@ Note: Operate within Terminal or Command Prompt
 > User: $
 
 ```
+
