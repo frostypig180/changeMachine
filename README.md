@@ -32,6 +32,6 @@ Note: Operate within Terminal or Command Prompt
 
 > System: Enter cash value (no commas).
 > User: $
-
 ```
+
 
